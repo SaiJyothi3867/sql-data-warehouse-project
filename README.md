@@ -159,6 +159,26 @@ data-warehouse-project/
 
 ---
 
+
 # 📄 License
 
 This project is licensed under the MIT License.
+
+---
+
+
+# 👩‍💻 About Me
+
+Hi, I'm **Sai Jyothi**, a Computer Science undergraduate with a strong interest in **Aalyticss**. I enjoy building data solutions that transform raw data into meaningful business insights through well-designed ETL pipelines and analytical data models.
+
+This project reflects my hands-on experience with SQL Server, data warehouse design, and dimensional modeling while following industry best practices. I continuously work on improving my technical skills by building practical, real-world projects.
+
+I'm always open to learning, collaborating, and exploring opportunities in **Data Engineering**, **Data Analytics**, and **Business Intelligence**.
+
+---
+## 📬 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/venkata-sai-jyothi-ponnada-296999334
+- 💻 GitHub: https://github.com/SaiJyothi3867
+
+---
