@@ -120,11 +120,9 @@ data-warehouse-project/
 │   ├── datawarehouse-architecture.png
 │   ├── data-flow.png
 │   ├── data-model.png
-│   ├── etl.drawio
-│   ├── data_architecture.drawio
-│   ├── data_flow.drawio
-│   ├── data_models.drawio
-│   └── data_catalog.md
+│   ├──data-integration.png
+│   
+|
 │
 ├── scripts/
 │   ├── bronze/
