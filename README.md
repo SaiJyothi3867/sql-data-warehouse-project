@@ -7,7 +7,7 @@ An end-to-end SQL Server Datawarehouse Project that integrates CRM() and ERP() d
 ##🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
-![Datawarehouse Architecture](docs/datawarehouse%20architecture.png)
+![Datawarehouse Architecture](docs/datawarehouse-architecture.png)
 
 1.**Bronze Layer:**
 -Stores raw data from the CRM and ERP source systems. 
