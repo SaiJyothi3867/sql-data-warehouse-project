@@ -1,19 +1,24 @@
-Data Warehouse and Analytics Project
+##SQL Data Warehouse and Analytics Project
 
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 An end-to-end SQL Server Datawarehouse Project that integrates CRM() and ERP() data using the Medallion Architecture
 (Bronze,Silver,Gold) to deliver business-ready datasets for analytics and reporting.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🏗️ Data Architecture
+##🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
 ![Datawarehouse Architecture](docs/datawarehouse%20architecture.png)
 
-1.Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
-2.Silver Layer: This layer includes data cleansing, standardization, and normalization processesto prepare data for analysis.
-3.Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
+1.**Bronze Layer:**
+-Stores raw data from the CRM and ERP source systems. 
+-Data is ingested directly from CSV Files into SQL Server Database.
+2.**Silver Layer:** 
+-This layer includes data cleansing, standardization, and normalization processesto prepare data for analysis.
+-Resolves Data quality issues
+3.**Gold Layer:**
+Creates business-ready data modeled into a star schema required for reporting and analytics.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📖 Project Overview
+##📖 Project Overview
 This project involves:
 
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
